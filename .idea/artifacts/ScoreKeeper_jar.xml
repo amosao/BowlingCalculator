@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScoreKeeper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScoreKeeper_jar</output-path>
+    <root id="archive" name="ScoreKeeper.jar">
+      <element id="module-output" name="ScoreKeeper" />
+    </root>
+  </artifact>
+</component>
